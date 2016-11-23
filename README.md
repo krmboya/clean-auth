@@ -1,1 +1,1 @@
-# Auth package for use with webpy
+# Generic authentication package for use with python
